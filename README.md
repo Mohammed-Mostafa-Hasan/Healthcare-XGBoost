@@ -1,1 +1,2 @@
 # Healthcare-XGBoost
+<p>This applications is used to predict blood glucose levels for individual patients. Diabetes patients themselves make such predictions all the time, particularly if they have a level of disease such that they inject themselves with bolus insulin, which is specifically used at mealtimes. In such cases, diabetics need to estimate how the food they are about to eat will affect their blood sugar and adjust their dose accordingly.</p>
